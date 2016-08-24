@@ -1,0 +1,26 @@
+cd basic_repo
+
+git init
+
+git add .
+
+git commit -m "First Commit. Basic HTML and empty CSS"
+
+git status
+
+git add .
+
+git commit -m "Added styling for simple page"
+
+git remote add origin https://github.com/paulmun/basic_repo.git
+
+git push -u origin master
+
+git status
+
+git add .
+
+git commit -m "Minor text fixes."
+
+git push
+
