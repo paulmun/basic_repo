@@ -1,0 +1,13 @@
+body{
+	font-family: "Helvetica-Neue", sans-serif;
+	color: white;
+	background-color: #000;
+}
+
+h1{
+	font-size: 36px;
+	letter-spacing: 3px;
+	margin: 100px auto;
+	text-align: center;
+	text-transform: uppercase;
+}
